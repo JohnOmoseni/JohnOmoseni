@@ -2,12 +2,14 @@
 
 I'm a software engineer with over 4 years of experience who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, NextJS, React Native, T3 Stack (Typescript, APIs + Markup) and GraphQL. My interest in the React ecosystem led me to contribute to various open-source projects, write articles to share my knowledge, and participate in developer communities. I thrive on solving complex problems and creating solutions that have a positive impact. When I'm not coding, you can find me exploring new technologies, reading about blockchain advancements, or enjoying a good laugh with friends.
 
-<p align="left"> <a href="https://twitter.com/johnomoseni" target="blank"><img src="https://img.shields.io/twitter/follow/johnomoseni?logo=twitter&style=for-the-badge" alt="johnomoseni" /></a> </p>
+<p align="left"> <a href="https://twitter.com/johnomoseni" target="blank"><img src="https://img.shields.io/twitter/follow/johnomoseni?logo=twitter&style=for-the-badge" alt="johnomoseni" /></a></p>
 
-- 🌱 I’m currently learning **Leo, GO**
+- 🔭 I’m currently working on something cool😁
 
 - 👯 I’m looking to collaborate on **open-source projects and Web3 projects**
 
+- 🌱 I’m currently honing my skills in **Solidity, Leo**
+  
 - 👨‍💻 Portfolio Website at [https://johnny-omoseni.vercel.app](https://johnny-omoseni.vercel.app)
 
 - 💬 Ask me about **React, React Native, Typescript, JavaScript, NextJS, Expo**
