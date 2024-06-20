@@ -8,7 +8,7 @@ I'm a software engineer with over 4 years of experience who is passionate about 
 
 - 👯 I’m looking to collaborate on **open-source projects and Web3 projects**
 
-- 👨‍💻 All of my projects are available at [https://johnny-omoseni.vercel.app](https://johnny-omoseni.vercel.app)
+- 👨‍💻 Portfolio Website at [https://johnny-omoseni.vercel.app](https://johnny-omoseni.vercel.app)
 
 - 💬 Ask me about **React, React Native, Typescript, JavaScript, NextJS, Expo**
 
