@@ -30,5 +30,3 @@ I'm a software engineer with over 4 years of experience who is passionate about 
 
 ## 📊 &nbsp;Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnomoseni&show_icons=true&locale=en&layout=compact" alt="johnomoseni" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnomoseni&" alt="johnomoseni" /></p>
